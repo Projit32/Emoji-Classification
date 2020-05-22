@@ -313,9 +313,6 @@ with open(path+'/y_train.pickle', 'wb') as output:
 # y_test
 with open(path+'/y_test.pickle', 'wb') as output:
     pickle.dump(y_test, output)
-# df
-with open(path+'/dataset.pickle', 'wb') as output:
-    pickle.dump(dataset, output)   
 # TF-IDF object
 with open(path+'/tfidf.pickle', 'wb') as output:
     pickle.dump(tfidf, output)
