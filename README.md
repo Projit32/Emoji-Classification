@@ -61,6 +61,7 @@ A basic chi square test revals the same:
  
  * Finall Pediction:
    This is the final stage where we use random comments off the internet and put it to test it against the classifier.
+   We use the `Emoji Classification Driver.py` to test our system by putting the comments in a list and running the entire code.
    
    <img src="Images/steps.png" height=500/> 
    
